@@ -9,4 +9,4 @@ jobs:
         uses: JJ/pr-greeting-action@releases/v0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          pr-message: "Message that will be displayed on users' first pr. Look, a `code block` for markdown."
+          pr-message: "Hey **#** welcome to this repo"
